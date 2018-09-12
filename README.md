@@ -17,3 +17,8 @@ These instructions will get you a copy of the project up and running on your loc
 ## License
 
 This project is licensed under the [MIT License](https://thekhenzie.mit-license.org/)
+
+## References
+
+* https://github.com/halkar/Tesseract.Xamarin
+* https://thatcsharpguy.com/post/tesseract-ocr-xamarin/
